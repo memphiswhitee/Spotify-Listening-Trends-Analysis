@@ -4,6 +4,6 @@ Analysis of Spotify track data to explore listening trends and factors associate
 The goal of this project is to demonstrate an end-to-end data analytics workflow, from data cleaning to analysis and visualization.
 
 
-# ❔Business / Analysis Questions
+#❔Business / Analysis Questions
 
  
